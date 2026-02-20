@@ -2,11 +2,15 @@
 
 This repository showcases a comprehensive deep dive into **Text Vectorization** techniques in **Natural Language Processing (NLP)**. It covers the journey from basic categorical encoding to advanced semantic word embeddings.
 
-
-
 ## 📌 Overview
 In NLP, machines don't understand text; they understand numbers. This project demonstrates the fundamental methods used to transform unstructured text into numerical vectors that Machine Learning models can process.
 
+### 📊 Semantic Visualization
+Below is a 3D visualization of word embeddings created using Word2Vec and PCA:
+
+![Word2Vec Visualization](image_276376.png)
+
+*The graph shows how words with similar contexts (like character names from Game of Thrones) cluster together in a vector space.*
 ## 🛠️ Techniques Implemented
 
 ### 1. One-Hot Encoding
